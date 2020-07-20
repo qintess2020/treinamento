@@ -1,0 +1,153 @@
+{
+  "Agile Organization": "Celso Kleder",
+  "Workstream": {
+    "Roberto Bob: Financial Services 1": {
+      "Tribe Santander Projetos": {
+        "Cliente": "Santander"
+      },
+      "Tribe Canais Santander": {
+        "Cliente": "Santander"
+      },
+      "Tribe FS1.A": {
+        "Cliente": "Santander"
+      },
+      "Tribe FS1.B": {
+        "Cliente": "Santander"
+      },
+      "Tribe Safra": {
+        "Cliente": "Safra"
+      },
+      "Tribe Bradesco": {
+        "Cliente": "Bradesco"
+      }
+    },
+    "Pedro Tarelho: Financial Services 2": {
+      "Fabiano de Oliveira": {
+        "Tribe FS2.A": {
+          "Cliente0": "Original",
+          "Cliente1": "Banco Pan",
+          "Cliente3": "BTG",
+          "Cliente4": "Banco Honda",
+          "Cliente5": "Banco Alfa",
+          "Cliente6": "BMG",
+          "Cliente7": "UBS"
+        },
+        "Tribe FS2.B": {
+          "Cliente0": "Alelo Elopar",
+          "Cliente1": "Veloe",
+          "Cliente2": "Cetelem",
+          "Cliente3": "Western Union",
+          "Cliente4": "B3",
+          "Cliente5": "Crefisa",
+          "Cliente6": "Serasa",
+          "Cliente7": "Febraban"
+        }
+      },
+      "Nelson Mota": {
+        "Tribe FS2.C": {
+          "Cliente0": "Citibank",
+          "Cliente1": "Itaú",
+          "Cliente2": "Xpi",
+          "Cliente3": "Banco Volks"
+        }
+      }
+    },
+    "Director TBH: Workstream Multi Sector": {
+      "Etienne": {
+        "Tribe Bens, Saúde": {
+          "Cliente0": "Natura",
+          "Cliente1": "JSL/Movida",
+          "Cliente2": "LIQCORP",
+          "Cliente3": "G. Ultra",
+          "Cliente4": "Danone",
+          "Cliente5": "Qualicorp"
+        },
+        "Tribe Varejo & Serviços": {
+          "Cliente0": "C&A Modas",
+          "Cliente1": "Via Varejo",
+          "Cliente2": "GPA",
+          "Cliente3": "Ernstyoung",
+          "Cliente4": "ISLOG",
+          "Cliente": "CVC"
+        }
+      }
+    },
+    "Ronaldo Domingos: Financial & Insurance": {
+      "Adriano Jeremias": {
+        "Tribe FI1": {
+          "Cliente": "BV"
+        }
+      },
+      "Janete Mendes": {
+        "Tribe FI2": {
+          "Cliente0": "Tokio",
+          "Cliente1": "Liberty",
+          "Cliente2": "Mapfre",
+          "Cliente3": "Porto Seguro",
+          "Cliente4": "Zurich",
+          "Cliente5": "Assurant"
+        }
+      }
+    },
+    "Director TBH: Workstream Practices": {
+      "Cassio Vernier": {
+        "Tribe Automations": {
+          "Cliente": "Diversos"
+        }
+      },
+      "Rodrigo Nakamura": {
+        "Tribe Salesforce": {
+          "Cliente": "Diversos"
+        }
+      },
+      "Sônia Martins": {
+        "Tribe Analitycs & Decision Science": {
+          "Cliente": "Diversos"
+        }
+      },
+      "Egnaldo": {
+        "Payments & Fintechs": {
+          "Cliente0": "Cielo",
+          "Cliente1": "Fidelity",
+          "Cliente2": "C6",
+          "Cliente3": "Nubank"
+        }
+      }
+    },
+    "Director TBH: Workstream Branches": {
+      "Dener": {
+        "Tribe Sul": {
+          "Cliente0": "Dell",
+          "Cliente1": "Banrisul"
+        }
+      },
+      "Sara": {
+        "Tribe Nordeste": {
+          "Cliente0": "BNB",
+          "Cliente1": "TRF-5",
+          "Cliente2": "TC-PE"
+        }
+      },
+      "Etienne": {
+        "Tribe Campinas": {
+          "Cliente0": "Raizen",
+          "Cliente1": "Rodobens",
+          "Cliente2": "Caterpilar",
+          "Cliente3": "Sanmina",
+          "Cliente4": "Vidalink",
+          "Cliente5": "FMC",
+          "Cliente6": "CPFL",
+          "Cliente7": "ROTAM",
+          "Cliente8": "Unimed"
+        }
+      },
+      "Sidney Sérgio": {
+        "Tribe Brasilia & RJ": {
+          "Cliente0": "Caixa",
+          "Cliente1": "Banco",
+          "Cliente2": "DPF"
+        }
+      }
+    }
+  }
+}
