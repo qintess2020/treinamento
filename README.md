@@ -1,5 +1,2 @@
 # treinamento
-Qintees
-
-
-Douglas
+tente 3 lugar
